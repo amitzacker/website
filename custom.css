@@ -1,0 +1,29 @@
+.col-1{
+    color: var(--color-primary);
+}
+.col-2{
+    color: black;
+}
+
+#reset{
+    all: unset;
+    cursor: pointer;
+    color: #0b1b72;
+}
+
+.social-group  img{
+    width: 50px;
+    margin: 10px;
+}
+.social-group img:hover{
+    width: 58px;
+    transition: 0.2s;
+   
+}
+.hidden{
+    display: none;
+}
+#profile{
+    width: 218px;
+    height: 361px;
+}
