@@ -27,3 +27,12 @@
     width: 218px;
     height: 361px;
 }
+#about{
+    margin-top: 86px;
+    padding-top: 11px;
+}
+#contact{
+    padding-top: 84px;
+    /* margin-top: 88px; */
+    margin-top: -108px;
+}
