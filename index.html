@@ -280,6 +280,7 @@
             .then(() => {
             btn.value = 'Message Sent Successfully!';
             // alert('Sent!');
+            document.getElementById("myform").reset();
             }, (err) => {
             btn.value = 'Try Again';
             alert(JSON.stringify(err));
